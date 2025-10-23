@@ -3,7 +3,7 @@ Power BI dashboard analyzing regional food consumption patterns and trends, unco
 
 ## Data Source
 SPSS(.sav) file was the source.
-I extracted excel file using R script.
+I extracted excel file using R script. 
 
 
 ## 📸 Dashboard Preview  
