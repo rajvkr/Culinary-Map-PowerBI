@@ -1,16 +1,48 @@
 # Culinary-Map-PowerBI
-Power BI dashboard analyzing regional food consumption patterns and trends, uncovering dietary habits, seasonality, and key culinary insights across locations.
 
-## Data Source
-SPSS(.sav) file was the source.
-I extracted excel file using R script.
+An interactive **Power BI dashboard** analyzing **regional food consumption patterns** to uncover dietary habits, seasonality, and region-specific culinary preferences across locations.
 
-## 🛠 Tools Used  
+---
 
-- **R** → Data conversion from `.sav` to `.xlsx`
-- **Excel** → Data Cleaning and filtering to add only relevant data. 
-- **Power BI** → Data modeling (**DAX**), transformation (**Power Query**), and Visualization.
+## 📌 Objective
+To analyze survey-based food consumption data at a regional level and identify national dietary trends, regional variations, and culinary preferences using weighted analysis.
 
+---
+
+## 📂 Data Source
+- Survey data provided in **SPSS (.sav)** format  
+- Converted to **Excel (.xlsx)** using an R script for further analysis and visualization
+
+---
+
+## 🔄 Data Preparation
+- Converted `.sav` files to Excel using **R**
+- Cleaned and filtered relevant variables in **Excel**
+- Modeled and transformed data using **Power Query** and **DAX** in Power BI
+
+---
+
+## 📊 Key Analysis
+- Applied **weighted averages** to normalize survey responses  
+- Analyzed **regional food consumption patterns** and dietary preferences  
+- Identified **national trends** alongside region-specific culinary insights  
+- Enabled dynamic filtering by region and food categories
+
+---
+
+## 🚀 Impact
+- Revealed **region-specific culinary preferences** using weighted survey analysis  
+- Highlighted **national dietary trends** across locations  
+- Supported data-driven understanding of **food habits and consumption behavior**
+
+---
+
+## 🛠 Tools Used
+- **R** – Data conversion from `.sav` to `.xlsx`  
+- **Excel** – Data cleaning and filtering  
+- **Power BI** – Data modeling (**DAX**), transformation (**Power Query**), and visualization  
+
+---
 
 ## 📸 Dashboard Preview  
 
